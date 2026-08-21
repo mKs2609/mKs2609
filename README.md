@@ -31,11 +31,10 @@
 - 🎓 B.Tech Artificial Intelligence & Data Science student
 - 🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
 - 💻 Building projects to turn ideas into real-world applications
-- 🐍 Currently strengthening Python, Java, DSA & core Computer Science
+- 🐍 Currently strengthening Python, Java, DSA & core CS fundamentals
 - 🌐 Exploring Full-Stack Development and modern web technologies
 - 🧠 Interested in AI-powered systems, automation & intelligent applications
-- 🚀 Passionate about learning by building and experimenting
-- 📚 Currently focused on improving my problem-solving and software development skills
+- 🚀 Learning by building, experimenting and solving real-world problems
 
 ---
 
@@ -45,7 +44,6 @@
 ### 🚀 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -90,9 +88,111 @@
 - Object-Oriented Programming
 - Database Management Systems
 - Web Development
-- Artificial Intelligence
 - Machine Learning
 - Retrieval-Augmented Generation (RAG)
 - Version Control
 
 ---
+
+# 🚀 Featured Projects
+
+### 🧠 RAG Assistant — Multi-Tenant Document Q&A Platform
+
+**Next.js • TypeScript • Supabase • PostgreSQL • pgvector • Gemini**
+
+> A full-stack RAG application for context-grounded document question answering with source citations.
+
+- 📄 Document upload and context-grounded question answering
+- 🔎 Hybrid retrieval using vector similarity + PostgreSQL full-text search
+- 🔐 Authentication, tenant isolation and Row-Level Security
+- 🛡️ Citation verification, prompt-injection defenses and rate limiting
+- ☁️ Deployed on Vercel
+
+[🔗 GitHub](https://github.com/mKs2609/rag-assistant) • [🌐 Live Demo](https://rag-assistant-gamma.vercel.app/)
+
+---
+
+### 🔥 Burnout Buster — Student Burnout Risk Prediction
+
+**Python • Streamlit • Pandas • NumPy • Scikit-learn**
+
+> An ML application that classifies student burnout risk into Low, Medium and High categories.
+
+- 🤖 Random Forest classification model
+- 📊 Behavioral and academic indicator analysis
+- 🧪 5-fold stratified cross-validation
+- ⚡ Interactive Streamlit prediction interface
+- 📈 Real-time burnout risk predictions
+
+[🔗 GitHub](https://github.com/mKs2609/burnout-buster) • [🌐 Live Demo](https://burnout-buster-tp2wbhw5ctpsd3ggy8yzlc.streamlit.app/)
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Building practical AI & Machine Learning applications
+- 🧠 Exploring RAG systems and LLM-powered applications
+- 🌐 Improving and Learning Full-Stack Development skills
+- 💻 Strengthening Data Structures & Algorithms
+- ☕ Improving Java and Python programming
+- 🗄️ Deepening knowledge of Databases and Backend Development
+- 🚀 Building and deploying real-world projects
+- 🌱 Learning something new and improving every day
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mKs2609&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://github.com/mKs2609?tab=followers">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FmKs2609&query=%24.followers&label=FOLLOWERS&style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/mKs2609?tab=stars">
+<img src="https://img.shields.io/badge/STARS-2-blue?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/mKs2609?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FmKs2609&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohitkumar55gg/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohitks2609@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mKs2609">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Build. Learn. Improve. Repeat."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
