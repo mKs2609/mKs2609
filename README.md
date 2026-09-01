@@ -144,12 +144,9 @@
 # 📊 GitHub Activity
 
 <p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mKs2609&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com/?user=mKs2609&theme=github-dark&hide_border=true" height="180"/>
 </p>
 
----
 
 <p align="center">
 
