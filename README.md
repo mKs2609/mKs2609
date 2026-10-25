@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohitkumar55gg/"><img src="https://img.shields.io/badge/LinkedIn-Mohit%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/mohitks2609/"><img src="https://img.shields.io/badge/LinkedIn-Mohit%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohitks2609@gmail.com"><img src="https://img.shields.io/badge/Email-mohitks2609%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open%20to-2027%20internships-2DA44E?style=flat-square" alt="Open to 2027 internships">
 </p>
@@ -17,7 +17,7 @@ I'm a third-year B.Tech AI & Data Science student at VIPS-TC, New Delhi (GGSIPU,
 
 I design, build and deploy AI applications end to end, from the database schema to the live URL. Every project below is a solo build with a live deployment, an automated test suite, and CI that runs on every push.
 
-**Experience:** SDE Intern at **Zomakarb AI Solutions LLP**, New Delhi (Jul – Sep 2026). I designed and built a retrieval-augmented generation (RAG) assistant for the company, covering vector retrieval, document preprocessing pipelines and the generative AI application around them.
+**Experience:** SDE Intern at **Zomakarb AI Solutions LLP**, New Delhi (Jul – Sep 2026). I built the company's internal RAG document assistant solo, end to end: document parsing, chunking and embedding, vector search with PostgreSQL and pgvector, and LLM answer generation behind a Next.js web app. I deployed it for internal use and presented it to the founders, and 3–4 team members used it for document lookups.
 
 ## Selected work
 
@@ -35,7 +35,7 @@ A forecasting and relief-logistics system built on live government flood reports
 <li>Scores 110,000+ road segments, refreshed every morning by an automated pipeline</li>
 <li>Onset AUC 0.71 on a held-out monsoon season, against 0.50 for the "same as today" baseline</li>
 <li>Relief planner written as a linear program that reports which constraint is limiting: stock, trucks or reachability</li>
-<li>316 API tests, 15 web tests, and outside-in alerting that emails me when a feed goes stale</li>
+<li>319 API tests, 21 web tests, and outside-in alerting that emails me when a feed goes stale</li>
 </ul>
 <code>Python</code> <code>FastAPI</code> <code>PostGIS</code> <code>OR-Tools</code> <code>Next.js</code> <code>MapLibre</code> <code>Docker</code>
 <br><br>
@@ -44,7 +44,7 @@ A forecasting and relief-logistics system built on live government flood reports
 </tr>
 <tr>
 <td width="44%" valign="top">
-<a href="https://rag-assistant-gamma.vercel.app"><img src="https://raw.githubusercontent.com/mKs2609/rag-assistant/main/docs/screenshots/chat.png" alt="RAG Assistant answering a question with a verified chart and citations"></a>
+<a href="https://rag-assistant-gamma.vercel.app"><img src="https://raw.githubusercontent.com/mKs2609/rag-assistant/main/docs/images/chat.png" alt="RAG Assistant answering a question with a verified chart and citations"></a>
 </td>
 <td valign="top">
 <h3>RAG Assistant</h3>
@@ -98,7 +98,7 @@ A three-minute wellness check-in for students and a risk dashboard for the couns
 
 | | |
 |---|---|
-| **Languages** | Python, TypeScript, JavaScript, Java, C, SQL |
+| **Languages** | Python, TypeScript, JavaScript, Java, SQL |
 | **Backend** | FastAPI, Spring Boot, Flask, Next.js API routes, REST |
 | **Frontend** | React, Next.js, Tailwind CSS, Streamlit |
 | **AI and data** | RAG, embeddings, LLM APIs (Gemini, Voyage AI), scikit-learn, Pandas, NumPy, OR-Tools |
